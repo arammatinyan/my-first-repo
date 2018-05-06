@@ -1,3 +1,3 @@
 the text has been changed
-A line that was modified by my friend and was added to master before me
+A twice modified line in new_branch
 A thired line

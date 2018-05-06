@@ -1,3 +1,3 @@
 the text has been changed
-A modified line in new_branch
+A twice modified line in new_branch
 A thired line
